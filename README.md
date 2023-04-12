@@ -26,7 +26,7 @@ on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-com
 
 ### Links
 
-- [Solution URL](https://github.com/mcoria08/frntendmentor-qr-code-component-figma)
+- [Solution URL](https://github.com/mcoria08/frontend-mentor-results-summary-component)
 - [Live Site URL](https://courageous-gnome-14a090.netlify.app/)
 
 ## My process
@@ -59,4 +59,4 @@ Evolve to a professioinal front-end developer.
 
 ## Acknowledgments
 
-My first challenge at FrontEntMentor.io
+My second challenge at FrontEntMentor.io
