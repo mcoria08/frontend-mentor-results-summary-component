@@ -27,7 +27,7 @@ on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-com
 ### Links
 
 - [Solution URL](https://github.com/mcoria08/frontend-mentor-results-summary-component)
-- [Live Site URL](https://courageous-gnome-14a090.netlify.app/)
+- [Live Site URL](https://willowy-youtiao-c54610.netlify.app/)
 
 ## My process
 
